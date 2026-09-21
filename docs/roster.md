@@ -9,4 +9,4 @@ Solo se pide usuario de GitHub, no nombre completo, para minimizar datos
 personales en un repositorio público.
 
 | Usuario de GitHub | Link a mi fork |
-|---|---|
+|brubrux999|https://github.com/brubrux999/temas_selectos_fisica_computacional_1.git|
